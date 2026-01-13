@@ -1,0 +1,9 @@
+remote_theme: abhinavs/moonwalk
+title: Your Name, PhD
+actions: # This creates the menu links at the top
+  - label: "About"
+    url: "/"
+  - label: "Portfolio"
+    url: "/portfolio"
+  - label: "Resources"
+    url: "/resources"
